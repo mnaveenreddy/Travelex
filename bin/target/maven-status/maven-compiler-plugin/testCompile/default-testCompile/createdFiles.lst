@@ -1,0 +1,10 @@
+com\travelex\pages\PaymentPage.class
+com\travelex\runner\SuiteRunner.class
+com\travelex\pages\MyOrderPage.class
+com\travelex\utils\Screenshot.class
+com\travelex\pages\HomePage.class
+com\travelex\stepdefinitions\HomePageStepDefinitions.class
+com\travelex\base\TestBase.class
+com\travelex\stepdefinitions\PaymentStepdefinitions.class
+com\travelex\utils\listeners.class
+com\travelex\stepdefinitions\MyOrderstepdefinitions.class
